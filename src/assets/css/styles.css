@@ -1,1 +1,13 @@
 @import "./reset.css";
+
+.header .header__col1 {
+  width: 700px;
+  height: 60px;
+  background-color: aqua;
+}
+
+.header .header__col2 {
+  width: 700px;
+  height: 60px;
+  background-color: bisque;
+}
