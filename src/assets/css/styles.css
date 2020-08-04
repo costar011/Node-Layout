@@ -30,22 +30,43 @@
 
 .main .main__col1 {
   width: 100%;
-  height: 70vh;
+  height: 80vh;
 
   background-color: #c2f0fc;
 }
 
 .bottom {
   width: 100%;
-  height: 20px;
+
+  margin-top: 150px;
 
   display: flex;
   flex-direction: row;
 }
 
-.bottom .bottom__col {
-  width: 100%;
-  height: 30vh;
+.bottom .bottom__col1 {
+  width: 750px;
+  height: 100px;
 
+  display: flex;
+  flex-direction: row;
   background-color: orange;
+}
+
+.bottom .bottom__col2 {
+  width: 750px;
+  height: 100px;
+
+  display: flex;
+  flex-direction: row;
+  background-color: silver;
+}
+
+.bottom .bottom__col3 {
+  width: 750px;
+  height: 100px;
+
+  display: flex;
+  flex-direction: row;
+  background-color: skyblue;
 }
